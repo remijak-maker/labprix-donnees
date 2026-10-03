@@ -1,8 +1,8 @@
 {
   "format": "labprix.laboratoires",
   "version_schema": 1,
-  "mise_a_jour": "2026-10-02",
-  "avertissement": "Cette base ne contient pour l'instant que des laboratoires de TEST (fictifs). Remplacez-les par des données réelles et vérifiées.",
+  "mise_a_jour": "2026-10-03",
+  "avertissement": "Les fiches ci-dessous ont été collectées à partir de sources web publiques et doivent être vérifiées avant de les marquer comme vérifiées par LabPrix.",
   "villes": [
     {
       "id": "tetouan",
@@ -10,458 +10,132 @@
       "nom_ar": "تطوان",
       "alias": [
         "Tetouan",
-        "Tetuan",
-        "Tetouane",
-        "Titouan"
+        "Tétouan"
       ]
-    },
-    {
-      "id": "tanger",
-      "nom": "Tanger",
-      "nom_ar": "طنجة",
-      "alias": [
-        "Tangier",
-        "Tanja",
-        "Tangiers"
-      ]
-    },
-    {
-      "id": "rabat",
-      "nom": "Rabat",
-      "nom_ar": "الرباط",
-      "alias": []
-    },
-    {
-      "id": "sale",
-      "nom": "Salé",
-      "nom_ar": "سلا",
-      "alias": [
-        "Sale",
-        "Sla"
-      ]
-    },
-    {
-      "id": "temara",
-      "nom": "Témara",
-      "nom_ar": "تمارة",
-      "alias": [
-        "Temara"
-      ]
-    },
-    {
-      "id": "casablanca",
-      "nom": "Casablanca",
-      "nom_ar": "الدار البيضاء",
-      "alias": [
-        "Casa",
-        "Dar el Beida",
-        "Dar Bayda"
-      ]
-    },
-    {
-      "id": "mohammedia",
-      "nom": "Mohammédia",
-      "nom_ar": "المحمدية",
-      "alias": [
-        "Mohammedia",
-        "Mohamedia"
-      ]
-    },
-    {
-      "id": "fes",
-      "nom": "Fès",
-      "nom_ar": "فاس",
-      "alias": [
-        "Fes",
-        "Fez"
-      ]
-    },
-    {
-      "id": "meknes",
-      "nom": "Meknès",
-      "nom_ar": "مكناس",
-      "alias": [
-        "Meknes",
-        "Miknas"
-      ]
-    },
-    {
-      "id": "marrakech",
-      "nom": "Marrakech",
-      "nom_ar": "مراكش",
-      "alias": [
-        "Marrakesh",
-        "Marrakch"
-      ]
-    },
-    {
-      "id": "agadir",
-      "nom": "Agadir",
-      "nom_ar": "أكادير",
-      "alias": []
-    },
-    {
-      "id": "inezgane",
-      "nom": "Inezgane",
-      "nom_ar": "إنزكان",
-      "alias": []
-    },
-    {
-      "id": "oujda",
-      "nom": "Oujda",
-      "nom_ar": "وجدة",
-      "alias": [
-        "Ujda"
-      ]
-    },
-    {
-      "id": "kenitra",
-      "nom": "Kénitra",
-      "nom_ar": "القنيطرة",
-      "alias": [
-        "Kenitra"
-      ]
-    },
-    {
-      "id": "el-jadida",
-      "nom": "El Jadida",
-      "nom_ar": "الجديدة",
-      "alias": [
-        "Jadida"
-      ]
-    },
-    {
-      "id": "safi",
-      "nom": "Safi",
-      "nom_ar": "آسفي",
-      "alias": [
-        "Asfi"
-      ]
-    },
-    {
-      "id": "beni-mellal",
-      "nom": "Béni Mellal",
-      "nom_ar": "بني ملال",
-      "alias": [
-        "Beni Mellal"
-      ]
-    },
-    {
-      "id": "nador",
-      "nom": "Nador",
-      "nom_ar": "الناظور",
-      "alias": []
-    },
-    {
-      "id": "taza",
-      "nom": "Taza",
-      "nom_ar": "تازة",
-      "alias": []
-    },
-    {
-      "id": "khouribga",
-      "nom": "Khouribga",
-      "nom_ar": "خريبكة",
-      "alias": []
-    },
-    {
-      "id": "settat",
-      "nom": "Settat",
-      "nom_ar": "سطات",
-      "alias": []
-    },
-    {
-      "id": "berrechid",
-      "nom": "Berrechid",
-      "nom_ar": "برشيد",
-      "alias": []
-    },
-    {
-      "id": "larache",
-      "nom": "Larache",
-      "nom_ar": "العرائش",
-      "alias": [
-        "Laraich"
-      ]
-    },
-    {
-      "id": "ksar-el-kebir",
-      "nom": "Ksar El Kébir",
-      "nom_ar": "القصر الكبير",
-      "alias": [
-        "Ksar el Kebir",
-        "Ksar Kbir"
-      ]
-    },
-    {
-      "id": "al-hoceima",
-      "nom": "Al Hoceïma",
-      "nom_ar": "الحسيمة",
-      "alias": [
-        "Al Hoceima",
-        "Hoceima",
-        "El Hoceima"
-      ]
-    },
-    {
-      "id": "fnideq",
-      "nom": "Fnideq",
-      "nom_ar": "الفنيدق",
-      "alias": [
-        "Castillejos"
-      ]
-    },
-    {
-      "id": "mdiq",
-      "nom": "M'diq",
-      "nom_ar": "المضيق",
-      "alias": [
-        "Mdiq",
-        "Mdik"
-      ]
-    },
-    {
-      "id": "martil",
-      "nom": "Martil",
-      "nom_ar": "مرتيل",
-      "alias": [
-        "Martel"
-      ]
-    },
-    {
-      "id": "chefchaouen",
-      "nom": "Chefchaouen",
-      "nom_ar": "شفشاون",
-      "alias": [
-        "Chaouen",
-        "Chefchaouene"
-      ]
-    },
-    {
-      "id": "errachidia",
-      "nom": "Errachidia",
-      "nom_ar": "الرشيدية",
-      "alias": [
-        "Er Rachidia"
-      ]
-    },
-    {
-      "id": "ouarzazate",
-      "nom": "Ouarzazate",
-      "nom_ar": "ورزازات",
-      "alias": []
-    },
-    {
-      "id": "laayoune",
-      "nom": "Laâyoune",
-      "nom_ar": "العيون",
-      "alias": [
-        "Laayoune",
-        "Layoune"
-      ]
-    },
-    {
-      "id": "dakhla",
-      "nom": "Dakhla",
-      "nom_ar": "الداخلة",
-      "alias": []
-    },
-    {
-      "id": "guelmim",
-      "nom": "Guelmim",
-      "nom_ar": "كلميم",
-      "alias": [
-        "Goulimine"
-      ]
-    },
-    {
-      "id": "essaouira",
-      "nom": "Essaouira",
-      "nom_ar": "الصويرة",
-      "alias": [
-        "Mogador"
-      ]
-    },
-    {
-      "id": "khemisset",
-      "nom": "Khémisset",
-      "nom_ar": "الخميسات",
-      "alias": [
-        "Khemisset"
-      ]
-    },
-    {
-      "id": "berkane",
-      "nom": "Berkane",
-      "nom_ar": "بركان",
-      "alias": []
-    },
-    {
-      "id": "taourirt",
-      "nom": "Taourirt",
-      "nom_ar": "تاوريرت",
-      "alias": []
-    },
-    {
-      "id": "tiznit",
-      "nom": "Tiznit",
-      "nom_ar": "تزنيت",
-      "alias": []
-    },
-    {
-      "id": "taroudant",
-      "nom": "Taroudant",
-      "nom_ar": "تارودانت",
-      "alias": []
-    },
-    {
-      "id": "sidi-kacem",
-      "nom": "Sidi Kacem",
-      "nom_ar": "سيدي قاسم",
-      "alias": []
-    },
-    {
-      "id": "sidi-slimane",
-      "nom": "Sidi Slimane",
-      "nom_ar": "سيدي سليمان",
-      "alias": []
-    },
-    {
-      "id": "ifrane",
-      "nom": "Ifrane",
-      "nom_ar": "إفران",
-      "alias": []
-    },
-    {
-      "id": "azrou",
-      "nom": "Azrou",
-      "nom_ar": "أزرو",
-      "alias": []
-    },
-    {
-      "id": "midelt",
-      "nom": "Midelt",
-      "nom_ar": "ميدلت",
-      "alias": []
-    },
-    {
-      "id": "benguerir",
-      "nom": "Benguerir",
-      "nom_ar": "ابن جرير",
-      "alias": [
-        "Ben Guerir"
-      ]
-    },
-    {
-      "id": "youssoufia",
-      "nom": "Youssoufia",
-      "nom_ar": "اليوسفية",
-      "alias": []
     }
   ],
   "laboratoires": [
     {
-      "id": "test-tetouan-1",
-      "nom": "Laboratoire de démonstration Tétouan 1 (TEST)",
+      "id": "north-laboratory-medical-analysis-tetouan",
+      "nom": "North Laboratory for Medical Analysis",
       "nom_ar": null,
       "ville": "tetouan",
       "quartier": null,
-      "adresse": "Adresse fictive — donnée de test",
-      "telephone": null,
-      "latitude": 35.5785,
-      "longitude": -5.3684,
+      "adresse": "Avenue des F.A.R, Résidence Hania 1, RDC, Tétouan 93000",
+      "telephone": "+212 7 08 70 70 44",
+      "latitude": null,
+      "longitude": null,
       "site_web": null,
       "horaires": null,
       "services": [],
       "verified": false,
       "date_verification": null,
-      "source": "DONNÉE DE TEST : laboratoire fictif, à supprimer dès que les vraies données sont ajoutées.",
-      "test": true,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
       "actif": true
     },
     {
-      "id": "test-tetouan-2",
-      "nom": "Laboratoire de démonstration Tétouan 2 (TEST)",
+      "id": "laboratoire-ibn-al-nafis-tetouan",
+      "nom": "Laboratoire Ibn AL Nafis d'Analyse Médicale",
       "nom_ar": null,
       "ville": "tetouan",
       "quartier": null,
-      "adresse": "Adresse fictive — donnée de test",
-      "telephone": null,
-      "latitude": 35.5728,
-      "longitude": -5.3601,
+      "adresse": "22 Av. Youssef Ibn Tachfine, Tétouan 93000",
+      "telephone": "+212 6 61 06 71 60",
+      "latitude": null,
+      "longitude": null,
       "site_web": null,
       "horaires": null,
       "services": [],
       "verified": false,
       "date_verification": null,
-      "source": "DONNÉE DE TEST : laboratoire fictif, à supprimer dès que les vraies données sont ajoutées.",
-      "test": true,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
       "actif": true
     },
     {
-      "id": "test-tetouan-3",
-      "nom": "Laboratoire de démonstration Tétouan 3 (TEST)",
+      "id": "laboratoire-alfidae-tetouan",
+      "nom": "Laboratoire Alfidae d'analyses médicales",
+      "nom_ar": "مختبر ألفيدا للتحاليل الطبية",
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "Rue Mohamed Daoud, RDC, Tétouan 93020",
+      "telephone": "+212 8 08 59 35 38",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-al-razi-tetouan",
+      "nom": "Laboratoire Al Razi d'analyses médicales",
       "nom_ar": null,
       "ville": "tetouan",
       "quartier": null,
-      "adresse": "Adresse fictive — donnée de test",
-      "telephone": null,
-      "latitude": 35.5841,
-      "longitude": -5.3752,
+      "adresse": "41 Av. Chakib Arsalan, Tétouan 93000",
+      "telephone": "+212 5 39 96 88 47",
+      "latitude": null,
+      "longitude": null,
       "site_web": null,
       "horaires": null,
       "services": [],
       "verified": false,
       "date_verification": null,
-      "source": "DONNÉE DE TEST : laboratoire fictif, à supprimer dès que les vraies données sont ajoutées.",
-      "test": true,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
       "actif": true
     },
     {
-      "id": "test-tanger-1",
-      "nom": "Laboratoire de démonstration Tanger 1 (TEST)",
+      "id": "laboratoire-saoud-tetouan",
+      "nom": "Laboratoire de biologie médicale Saoud",
       "nom_ar": null,
-      "ville": "tanger",
-      "quartier": null,
-      "adresse": "Adresse fictive — donnée de test",
-      "telephone": null,
-      "latitude": 35.7595,
-      "longitude": -5.834,
+      "ville": "tetouan",
+      "quartier": "Centre Wilaya",
+      "adresse": "Résidence Nouria 2, Avenue du Caire, Tétouan 93000",
+      "telephone": "+212 8 08 66 05 59",
+      "latitude": null,
+      "longitude": null,
       "site_web": null,
       "horaires": null,
       "services": [],
       "verified": false,
       "date_verification": null,
-      "source": "DONNÉE DE TEST : laboratoire fictif, à supprimer dès que les vraies données sont ajoutées.",
-      "test": true,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
       "actif": true
     },
     {
-      "id": "test-tanger-2",
-      "nom": "Laboratoire de démonstration Tanger 2 (TEST)",
-      "nom_ar": null,
-      "ville": "tanger",
+      "id": "laboratoire-derdabi-tetouan",
+      "nom": "Laboratoire d'analyses médicales Derdabi Tétouan",
+      "nom_ar": "مختبر التحاليل الطبية الدردابي",
+      "ville": "tetouan",
       "quartier": null,
-      "adresse": "Adresse fictive — donnée de test",
-      "telephone": null,
-      "latitude": 35.768,
-      "longitude": -5.8105,
+      "adresse": "Avenue Mohamed V, Tétouan 93020",
+      "telephone": "+212 5 39 71 17 48",
+      "latitude": null,
+      "longitude": null,
       "site_web": null,
       "horaires": null,
       "services": [],
       "verified": false,
       "date_verification": null,
-      "source": "DONNÉE DE TEST : laboratoire fictif, à supprimer dès que les vraies données sont ajoutées.",
-      "test": true,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
       "actif": true
     },
     {
-      "id": "test-tanger-3",
-      "nom": "Laboratoire de démonstration Tanger 3 (TEST)",
+      "id": "laboratoire-biologie-medicale-avenida-tetouan",
+      "nom": "Laboratoire de Biologie Médicale AVENIDA",
       "nom_ar": null,
-      "ville": "tanger",
+      "ville": "tetouan",
       "quartier": null,
-      "adresse": "Adresse fictive — donnée de test",
+      "adresse": "Avenue Sultan Moulay El Hassan, Tétouan",
       "telephone": null,
       "latitude": null,
       "longitude": null,
@@ -470,8 +144,141 @@
       "services": [],
       "verified": false,
       "date_verification": null,
-      "source": "DONNÉE DE TEST : laboratoire fictif, à supprimer dès que les vraies données sont ajoutées.",
-      "test": true,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-central-tetouan",
+      "nom": "Laboratoire Central de Tetouan",
+      "nom_ar": null,
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "Avenue des Forces Armées Royales, Tétouan 93040",
+      "telephone": "+212 6 53 75 50 83",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-chellal-tetouan",
+      "nom": "Laboratoire Chellal d'analyses médicales",
+      "nom_ar": null,
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "35 Avenue Hassan II, Immeuble, RDC N°1, Tétouan 93000",
+      "telephone": "+212 5 39 71 32 85",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-fessi-fehri-tetouan",
+      "nom": "Laboratoire Fessi Fehri d'analyses médicales",
+      "nom_ar": null,
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "6 Avenue Chakib Arsalan, Tétouan 93000",
+      "telephone": "+212 5 39 70 38 98",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-av-far-tetouan",
+      "nom": "Laboratoire Av FAR",
+      "nom_ar": null,
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "461 Avenue des FAR, Tétouan 93040",
+      "telephone": "+212 5 39 99 03 64",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-slaoui-tetouan",
+      "nom": "Laboratoire Slaoui d'analyse médicale",
+      "nom_ar": null,
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "Avenue Mauritanie, Tétouan",
+      "telephone": "+212 5 39 70 03 45",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-abrid-jamaleddin-tetouan",
+      "nom": "Laboratoire Dr. Abrid Jamaleddin",
+      "nom_ar": null,
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "200 Avenue Khaled Ibn Oualid, Tétouan 93020",
+      "telephone": "+212 5 39 71 03 59",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
+      "actif": true
+    },
+    {
+      "id": "laboratoire-el-bakouri-tetouan",
+      "nom": "Laboratoire d'Analyses Médicales Bakouri",
+      "nom_ar": null,
+      "ville": "tetouan",
+      "quartier": null,
+      "adresse": "Avenue Allal Ben Abdellah, Tétouan",
+      "telephone": "+212 5 39 96 25 26",
+      "latitude": null,
+      "longitude": null,
+      "site_web": null,
+      "horaires": null,
+      "services": [],
+      "verified": false,
+      "date_verification": null,
+      "source": "Recherche web publique — vérification LabPrix à effectuer",
+      "test": false,
       "actif": true
     }
   ]
